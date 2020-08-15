@@ -5,4 +5,4 @@ Neural Net model Visualizer in web using Flask and streamlit
 `python3 ml_server.py`    
 `http://127.0.0.1:5000/`    
 `streamlit app.py`    
-`http://localhost:8501'
+`http://localhost:8501`
