@@ -1,5 +1,5 @@
 # NN_visualizer
- er in web using Flask and streamlit
+Flask and streamlit
 
 `cd Desktop/NN_visualizer`    
 `python3 ml_server.py`    
