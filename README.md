@@ -7,7 +7,8 @@ All the source code is provided here. The notebook will train the model and save
 ### Instruction to run     
 + open cmd
 + cd over the `NN_visualizer`
++ to install depencies `pip install -r requirements.txt`
 + run the command `python3 ml_server.py`
-+ it will start the flask server in `http://127.0.0.1:5000/`    
-+ run the command `streamlit run app.py`    
++ it will start the flask server in `http://127.0.0.1:5000/`
++ run the command `streamlit run app.py`
 + check the `http://localhost:8501`, where the streamlit is running
