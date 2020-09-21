@@ -1,5 +1,5 @@
 # NN_visualizer
-Neural Net model Visualizer in web using Flask and streamlit
+ Net model Visualizer in web using Flask and streamlit
 
 `cd Desktop/NN_visualizer`    
 `python3 ml_server.py`    
